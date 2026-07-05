@@ -7,7 +7,6 @@ import Features from './components/Features';
 import WhyChoose from './components/WhyChoose';
 import HowItWorks from './components/HowItWorks';
 import Pricing from './components/Pricing';
-import DashboardPage from './components/DashboardPage';
 import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
